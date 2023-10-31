@@ -11,7 +11,7 @@
 <a href="https://www.figma.com/file/cUEffecEUA4Hfvp8iXUIgv/Laura-Andrea-Rojas?type=design&node-id=0%3A1&mode=design&t=uUW8hogUnQPtfGnl-1">Link de Figma</a>
 
 <h3>Punto 2: Diseño en HTML</h3>
-
+<img src="./public/images/punto-2.png" alt="Punto 2">
 <h3>Punto 3: Diseño con CSS</h3>
 
 <h3>Punto 4: Diseño con Títuos</h3>
