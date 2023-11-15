@@ -1,0 +1,28 @@
+div{
+    background-color: yellow;
+    margin-right: 1100px;
+    border: black dotted 1px;
+    border-bottom: red dashed 1px;
+}
+table{
+    border-collapse: collapse;
+}
+thead{
+    border-bottom: black dotted 1px;
+    font-style: italic;
+    color: red;
+}
+
+td{
+    width: 540px;
+    border-bottom: black dotted 1px;
+}
+
+.fila
+{
+    border-right:black dotted 1px;
+}
+
+p{
+    margin: 0px;
+}

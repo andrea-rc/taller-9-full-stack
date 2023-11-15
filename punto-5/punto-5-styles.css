@@ -1,0 +1,24 @@
+.verde{
+    color: green;
+}
+
+.enemigo{
+    color: red;
+}
+
+.entiendo{
+    text-decoration: overline underline
+}
+
+.derrotarle{
+    font-weight: 600;
+    font-size: 25pt;
+}
+
+.azul{
+    color: blue;
+}
+
+.quiero{
+    color: red;
+}
